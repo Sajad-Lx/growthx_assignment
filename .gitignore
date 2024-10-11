@@ -1,0 +1,25 @@
+# Compiled Python files
+__pycache__/
+
+# Python environment files
+.venv
+venv
+env/
+
+# Test results
+.pytest_cache/
+test-results/
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Build artifacts
+dist/
+build/
+
+# Miscellaneous
+*.pyc
+*.swp
+
+.env
